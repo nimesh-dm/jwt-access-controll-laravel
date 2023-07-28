@@ -1,0 +1,3 @@
+role_user
+
+CREATE TABLE `laravel`.`role_user` (`id` BIGINT NOT NULL AUTO_INCREMENT , `role_id` BIGINT NOT NULL , `user_id` BIGINT NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB; 
