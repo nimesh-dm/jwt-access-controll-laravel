@@ -4,9 +4,5 @@
 # 📊 Includes:
 
  -> JWT Authentication featrue
- 
  -> Access Controll with user Roles
 ---
-[![](https://visitcount.itsvg.in/api?id=nimesh-dm&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
